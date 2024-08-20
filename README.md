@@ -25,6 +25,11 @@ Data Preparation
         - Time-Series Analysis: A line graph showing the trend of reviews over time.
 - Dashboard:
     - All visualizations were compiled into a final dashboard, providing a comprehensive view of the British Airways customer reviews. The dashboard includes interactive elements, enabling users to filter and drill down into the data based on various criteria.
+   
+    - Visualizations
+I've attached a screenshot of the final dashboard visualization below for you to review.
+![image](https://github.com/user-attachments/assets/e13ae0cf-fe48-4bbb-9a7e-896d34ff7741)
+
 
 
  Conclusion
