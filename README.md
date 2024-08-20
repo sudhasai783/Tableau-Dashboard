@@ -27,8 +27,11 @@ Data Preparation
     - All visualizations were compiled into a final dashboard, providing a comprehensive view of the British Airways customer reviews. The dashboard includes interactive elements, enabling users to filter and drill down into the data based on various criteria.
    
     - Visualizations
-I've attached a screenshot of the final dashboard visualization below for you to review.
+    - I've attached a screenshot of the final dashboard visualization below for your review. I am also adding the link to the Tableau Public website to which I have published the dashboard.
+
 ![image](https://github.com/user-attachments/assets/e13ae0cf-fe48-4bbb-9a7e-896d34ff7741)
+
+Link: https://public.tableau.com/app/profile/sai.sudha.pidugu/viz/Book1_17241304280340/Dashboard1
 
 
 
